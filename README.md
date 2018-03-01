@@ -10,3 +10,5 @@ generate_magic.c
 This program will generate a square matrix based on the size given by the user. The matrix created will have diagonals, row, and columns all sum to the same value. In practice, it should cause verify_hetero.c to return false.
 
 Both programs utilize dynamic memory allocation for the 2D square arrays. 
+
+Compile using -m32
